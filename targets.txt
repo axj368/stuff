@@ -1,0 +1,8 @@
+google.com
+instagram.com
+facebook.com
+chess.com
+yahoo.com
+linkedin.com
+twitter.com
+quora.com
